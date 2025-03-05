@@ -109,25 +109,23 @@ LIMIT 1;
 ## Power BI Project Dashboards
 
 ### Overall Analysis
-![Overall Analysis](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/main/Overall.png)
+![Overall Analysis](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/main/Overall.png?raw=true)
 
 ### Vehicle Type Analysis
-![Vehicle Type Analysis](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/main/Vehicle%20Type.png)
+![Vehicle Type Analysis](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/main/Vehicle%20Type.png?raw=true)
 
 ### Revenue Insights
-![Revenue Insights](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/main/Revenue.png)
+![Revenue Insights](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/main/Revenue.png?raw=true)
 
 ### Ride Cancellation Trends
-![Ride Cancellation Trends](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/main/Cancellation.png)
+![Ride Cancellation Trends](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/main/Cancellation.png?raw=true)
 
 ### Driver Ratings Overview
-![Driver Ratings Overview](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/main/Ratings.png)
+![Driver Ratings Overview](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/main/Ratings.png?raw=true)
 
-
-
-
-## Key Insights  
-- Revenue: Majority of the revenue is generated through online payments.  
-- Ride Trends: Prime Sedan is the most booked vehicle type.  
-- Cancellations: Customer-related issues contribute to most ride cancellations.  
-- Customer Satisfaction: Driver ratings vary based on vehicle type and location.  
+## Key Insights
+- **Revenue:** Majority of the revenue is generated through online payments.
+- **Ride Trends:** Prime Sedan is the most booked vehicle type.
+- **Cancellations:** Customer-related issues contribute to most ride cancellations.
+- **Customer Satisfaction:** Driver ratings vary based on vehicle type and location.
+ 
