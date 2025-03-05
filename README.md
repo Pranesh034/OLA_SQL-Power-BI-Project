@@ -17,7 +17,7 @@ The dataset consists of 100,000 ride records with the following key attributes:
 - Driver & Customer Ratings – Feedback scores from both parties  
 
 ## Technologies Used  
-- SQL – Data extraction, aggregation, and analysis  
+- SQL – Aggregation and analysis  
 - Power BI – Dashboard creation and visualization
 
 
