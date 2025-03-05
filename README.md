@@ -110,7 +110,7 @@ LIMIT 1;
 
 
 ### Overall Analysis
-![Overall Analysis](https://raw.githubusercontent.com/Pranesh034/OLA_SQL-Power-BI-Project/main/Overall.png)
+![image alt](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/a3fa95cc1f6a47319e725dfae03f3fdf90d8cc9d/Overall.png)
 
 ### Vehicle Type Analysis
 ![Vehicle Type Analysis](https://raw.githubusercontent.com/Pranesh034/OLA_SQL-Power-BI-Project/main/Vehicle%20Type.png)
