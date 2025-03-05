@@ -109,19 +109,20 @@ LIMIT 1;
 ## Power BI Project Dashboards
 
 ### Overall Analysis
-<img src="https://raw.githubusercontent.com/Pranesh034/OLA_SQL-Power-BI-Project/main/Overall.png" width="800"/>
+![Overall Analysis](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/main/Overall.png)
 
 ### Vehicle Type Analysis
-<img src="https://raw.githubusercontent.com/Pranesh034/OLA_SQL-Power-BI-Project/main/Vehicle_Type.png" width="800"/>
+![Vehicle Type Analysis](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/main/Vehicle%20Type.png)
 
 ### Revenue Insights
-<img src="https://raw.githubusercontent.com/Pranesh034/OLA_SQL-Power-BI-Project/main/Revenue.png" width="800"/>
+![Revenue Insights](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/main/Revenue.png)
 
 ### Ride Cancellation Trends
-<img src="https://raw.githubusercontent.com/Pranesh034/OLA_SQL-Power-BI-Project/main/Cancellation.png" width="800"/>
+![Ride Cancellation Trends](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/main/Cancellation.png)
 
 ### Driver Ratings Overview
-<img src="https://raw.githubusercontent.com/Pranesh034/OLA_SQL-Power-BI-Project/main/Ratings.png" width="800"/>
+![Driver Ratings Overview](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/main/Ratings.png)
+
 
 
 
