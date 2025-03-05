@@ -109,19 +109,19 @@ LIMIT 1;
 ## Power BI Project Dashboards  
 
 ### Overall Analysis  
-![Power BI Dashboard - Overall Analysis](https://raw.githubusercontent.com/Pranesh034/OLA_SQL-Power-BI-Project/main/Overall.png)  
+<img src="https://raw.githubusercontent.com/Pranesh034/OLA_SQL-Power-BI-Project/main/Overall.png" width="800"/>  
 
 ### Vehicle Type Analysis  
-![Vehicle Type Analysis](https://raw.githubusercontent.com/Pranesh034/OLA_SQL-Power-BI-Project/main/Vehicle%20Type.png)  
+<img src="https://raw.githubusercontent.com/Pranesh034/OLA_SQL-Power-BI-Project/main/Vehicle%20Type.png" width="800"/>  
 
 ### Revenue Insights  
-![Revenue Insights Dashboard](https://raw.githubusercontent.com/Pranesh034/OLA_SQL-Power-BI-Project/main/Revenue.png)  
+<img src="https://raw.githubusercontent.com/Pranesh034/OLA_SQL-Power-BI-Project/main/Revenue.png" width="800"/>  
 
 ### Ride Cancellation Trends  
-![Ride Cancellation Trends Dashboard](https://raw.githubusercontent.com/Pranesh034/OLA_SQL-Power-BI-Project/main/Cancellation.png)  
+<img src="https://raw.githubusercontent.com/Pranesh034/OLA_SQL-Power-BI-Project/main/Cancellation.png" width="800"/>  
 
 ### Driver Ratings Overview  
-![Driver Ratings Overview](https://raw.githubusercontent.com/Pranesh034/OLA_SQL-Power-BI-Project/main/Ratings.png) 
+<img src="https://raw.githubusercontent.com/Pranesh034/OLA_SQL-Power-BI-Project/main/Ratings.png" width="800"/>
 
 
 ## Key Insights  
