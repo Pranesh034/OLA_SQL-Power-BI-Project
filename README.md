@@ -49,7 +49,6 @@ CREATE TABLE bookings (
     Vehicle_Images TEXT NULL
 );
 
-```sql
 -- 1. Retrieve all successful bookings:
 SELECT * FROM bookings WHERE Booking_status = 'Success';
 
@@ -107,7 +106,7 @@ GROUP BY pickup_location
 ORDER BY total_bookings DESC 
 LIMIT 1;
 
-## Power BI Dashboards  
+## Power BI Project Dashboards
 
 ### Overall Analysis  
 ![Power BI Dashboard - Overall Analysis](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/main/Overall.png)  
@@ -123,6 +122,7 @@ LIMIT 1;
 
 ### Driver Ratings Overview  
 ![Driver Ratings Overview](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/main/Ratings.png)  
+
 
 ## Key Insights  
 - Revenue: Majority of the revenue is generated through online payments.  
