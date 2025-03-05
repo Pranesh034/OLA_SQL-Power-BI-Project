@@ -1,5 +1,6 @@
 # OLA Data Analysis using SQL and Power BI
 
+
 ## Project Overview  
 This project analyzes OLA ride data using SQL for data extraction and transformation and Power BI for interactive visualization.  
 The goal is to uncover key business insights, including ride trends, revenue analysis, cancellations, and customer ratings.  
@@ -17,7 +18,8 @@ The dataset consists of 100,000 ride records with the following key attributes:
 
 ## Technologies Used  
 - SQL – Data extraction, aggregation, and analysis  
-- Power BI – Dashboard creation and visualization   
+- Power BI – Dashboard creation and visualization
+
 
 # SQL Queries for OLA Booking Analysis  
 
@@ -107,22 +109,24 @@ ORDER BY total_bookings DESC
 LIMIT 1;
 
 
+```
 ## Power BI Project Dashboards
+ 
 
-### Overall Analysis
-![Overall Analysis](https://github.com/user-attachments/assets/a67f59cd-22ba-406a-ad72-cacb7dcdafcf)
+### Overall Analysis  
+![Overall Analysis](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/main/Overall.png)  
 
-### Vehicle Type Analysis
-![Vehicle Type Analysis](https://github.com/user-attachments/assets/4acd4c6b-d281-4cd7-b23a-d79592d89fb0)
+### Vehicle Type Analysis  
+![Vehicle Type Analysis](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/main/Vehicle_Type.png)  
 
-### Revenue Insights
-![Revenue Insights](https://github.com/user-attachments/assets/5c248b9b-234c-47ed-b9ab-24c628153e01)
+### Revenue Analysis  
+![Revenue Analysis](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/main/Revenue.png)  
 
-### Ride Cancellation Trends
-![Ride Cancellation Trends](https://github.com/user-attachments/assets/e426150c-381d-422a-a332-4545ca518ca2)
+### Cancellation Insights  
+![Cancellation Insights](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/main/Cancellation.png)  
 
-### Driver Ratings Overview
-![Driver Ratings Overview](https://github.com/user-attachments/assets/b2a81e09-e6cc-4ce5-85e1-9ba564522fb1)
+### Ratings Distribution  
+![Ratings Distribution](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/main/Ratings.png)  
 
 
 
@@ -133,5 +137,3 @@ LIMIT 1;
 - **Ride Trends:** Prime Sedan is the most booked vehicle type.
 - **Cancellations:** Customer-related issues contribute to most ride cancellations.
 - **Customer Satisfaction:** Driver ratings vary based on vehicle type and location.
-
- 
