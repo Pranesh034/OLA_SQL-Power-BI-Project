@@ -1,10 +1,10 @@
 # OLA_Data_Analysis Project (SQL & Power BI)
 ## Project Objective 
-#Analyze successful bookings and cancellation trends.
-#Evaluate ride distances and revenue generation by vehicle type.
-#Identify top customers and busiest locations.
-#Assess driver performance based on ratings and cancellations.
-#Develop an interactive Power BI dashboard for visualization.
+# Analyze successful bookings and cancellation trends.
+# Evaluate ride distances and revenue generation by vehicle type.
+# Identify top customers and busiest locations.
+# Assess driver performance based on ratings and cancellations.
+# Develop an interactive Power BI dashboard for visualization.
 
 ## Power BI Project Dashboards
 
