@@ -106,23 +106,24 @@ GROUP BY pickup_location
 ORDER BY total_bookings DESC 
 LIMIT 1;
 
+
 ## Power BI Project Dashboards
 
-
 ### Overall Analysis
-![image alt](https://github.com/Pranesh034/OLA_SQL-Power-BI-Project/blob/a3fa95cc1f6a47319e725dfae03f3fdf90d8cc9d/Overall.png)
+![Overall Analysis](https://github.com/user-attachments/assets/a67f59cd-22ba-406a-ad72-cacb7dcdafcf)
 
 ### Vehicle Type Analysis
-![Vehicle Type Analysis](https://raw.githubusercontent.com/Pranesh034/OLA_SQL-Power-BI-Project/main/Vehicle%20Type.png)
+![Vehicle Type Analysis](https://github.com/user-attachments/assets/4acd4c6b-d281-4cd7-b23a-d79592d89fb0)
 
 ### Revenue Insights
-![Revenue Insights](https://raw.githubusercontent.com/Pranesh034/OLA_SQL-Power-BI-Project/main/Revenue.png)
+![Revenue Insights](https://github.com/user-attachments/assets/5c248b9b-234c-47ed-b9ab-24c628153e01)
 
 ### Ride Cancellation Trends
-![Ride Cancellation Trends](https://raw.githubusercontent.com/Pranesh034/OLA_SQL-Power-BI-Project/main/Cancellation.png)
+![Ride Cancellation Trends](https://github.com/user-attachments/assets/e426150c-381d-422a-a332-4545ca518ca2)
 
 ### Driver Ratings Overview
-![Driver Ratings Overview](https://raw.githubusercontent.com/Pranesh034/OLA_SQL-Power-BI-Project/main/Ratings.png)
+![Driver Ratings Overview](https://github.com/user-attachments/assets/b2a81e09-e6cc-4ce5-85e1-9ba564522fb1)
+
 
 
 
